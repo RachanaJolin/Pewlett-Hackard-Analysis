@@ -18,3 +18,6 @@ Title Frequency:
 
 Data for the 3rd part of the challenge 
 <https://github.com/RachanaJolin/Pewlett-Hackard-Analysis/blob/master/Mentor_Challenge.csv>
+
+
+I think my code could be cleaner though- I split the mentor challenge into 2 parts, im sure there's way to reduce the steps. I just haven't researched it yet. 
